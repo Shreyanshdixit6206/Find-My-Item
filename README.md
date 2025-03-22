@@ -92,5 +92,5 @@ This project is licensed under the MIT License.
 ---
 
 ## 📧 Contact
-For any inquiries or suggestions, feel free to contact me via email: **kumari.swati2365@gmail.com**
+For any inquiries or suggestions, feel free to contact me via email: **shreyanshdixit6206@gmail.com**
 
